@@ -1,6 +1,3 @@
-
-CAT PHOTO APP
-
 <html lang="en">
  <head>
    <meta charset="utf-8" >
